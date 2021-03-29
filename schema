@@ -1,0 +1,10 @@
+/* SCHEMA FILE */
+DROP DATABASE IF EXISTS animals;
+CREATE DATABASE animmals;
+use animals;
+
+create table hamster ( name varchar(90) )
+
+create table giraffe ( age int(13) )
+
+create table moose ( name char(65) )
