@@ -1,0 +1,25 @@
+/* SCHEMA FILE */
+DROP DATABASE IF EXISTS pets;
+CREATE DATABASE pets;
+use pets;
+
+create table cats (
+
+  Bengal varchar(255),
+  Birman varchar(255),
+  Bombay varchar(255),
+  
+);
+
+create table dogs ( 
+  Huskie varchar(255),
+  Dalmation varchar(255),
+  Bulldog varchar(255),
+);
+
+
+create table fish ( 
+  Betta varchar(255),
+  Goldfish varchar(255),
+  Guppies varchar(255),
+);
