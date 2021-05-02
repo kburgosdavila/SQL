@@ -1,0 +1,8 @@
+insert into cats(Bengal,birman,bombay)
+values ()
+
+insert into dogs(Huskies, Dalmation, Bulldog)
+values 
+
+insert into fish (Betta, Goldfish, Guppies)
+values ()
