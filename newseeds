@@ -1,8 +1,14 @@
-insert into cats(Bengal,birman,bombay)
-values ()
+insert into cats(Breed, LifeSpan, Origin)
+values (Bengal, 16 Years, Asian Leopard Cat)
+values (Birman, 15 Years, Myanmar)
+values (Bombay, 16 Years, Louisville)
 
-insert into dogs(Huskies, Dalmation, Bulldog)
-values 
+insert into dogs(Breed, LifeSpan, Origin)
+values (Husky, 14 Years, Asia)
+values (Dalmation, 13 Years, Central Europe)
+values (Bulldog, 10 Years, England0
 
-insert into fish (Betta, Goldfish, Guppies)
-values ()
+insert into fish (Breed, LifeSpan, Origin)
+values (Betta, 5 Years, Asia)
+values (Goldfish, 60 Years, China)
+values (Guppies, 5 Yeras, South America)
